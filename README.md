@@ -21,6 +21,18 @@
 > GDSC CAU Frontend-final-project
 프로젝트 기간 : 2023.01.02 ~ 2023.01.21
 
+## 🔨 기술 스택
+
+| 역할 | 종류 |
+| --- | --- |
+| Framework(SSR) | Next.js |
+| Core library | remotion cookies-next @vercel/og partytown |
+| Styling library | tailwindcss heroicons |
+| State Management library | jotai |
+| Backend(serverless) | aws lambda + s3 |
+| Package Manager | pnpm |
+| Formatting | Eslint, Prettier, husky, lint-staged |
+
 
 ## 🔥 서비스 핵심 기능
 
@@ -95,19 +107,6 @@
     버튼을 누르면 받는 사람도 편지를 만들 수 있습니다.
     
 <img width="300" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4 31 23" src="https://user-images.githubusercontent.com/65647080/217140940-44bc47b8-fdcd-486b-b88d-796276c9821b.png">
-
-
-## 🔨 기술 스택
-
-| 역할 | 종류 |
-| --- | --- |
-| Framework(SSR) | Next.js |
-| Core library | remotion cookies-next @vercel/og partytown |
-| Styling library | tailwindcss heroicons |
-| State Management library | jotai |
-| Backend(serverless) | aws lambda + s3 |
-| Package Manager | pnpm |
-| Formatting | Eslint, Prettier, husky, lint-staged |
 
 
 ## 🚀 우리의 규칙
